@@ -3,16 +3,16 @@ baseurl: /mathcampwebsite/
 #remote_theme: agency-jekyll-theme
 
 # Site settings
-title: Awesome Title
+title: Alex's Math Camp
 email: alxwen711@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "An in person/online math program for students grades 6-9 led by Alex Wen delving into the interesting side of mathematics. Join today!"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Alexander Wen
   pic: 1
-  position: Lead Designer
+  position: Lead Tutor
   social:
     - title: twitter
       url: #
