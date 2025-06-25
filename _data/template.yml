@@ -4,6 +4,7 @@ color:
   secondary: db8b2b   
   secondary-dark: 333
   muted: 777
+  white: ffffff
 
 # Font Families
 font:
